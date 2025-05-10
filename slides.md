@@ -323,6 +323,8 @@ btn.removeEventListener("click", greet);
 ---
 layout: center 
 title: Promises
+
+
 ---
 # Promises
 A Promise represents a value that may be available now, later, or never. 
